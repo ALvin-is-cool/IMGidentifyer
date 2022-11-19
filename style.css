@@ -1,0 +1,18 @@
+body {
+    background-color: orangered;
+}
+
+h4 {
+    font: size 20px;
+    font-style: italic;
+    color: aqua;
+}
+
+#camera,#result {
+    border: 2px;
+    border-color: black;
+    border-style: dotted;
+    height: 250px;
+    width: 250 ;
+}
+
